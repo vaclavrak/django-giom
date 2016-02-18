@@ -1,0 +1,8 @@
+celery
+django
+td-logger
+mock
+statsd
+
+django-tastypie
+django-pretty-times
